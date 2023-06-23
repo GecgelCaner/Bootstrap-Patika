@@ -2,8 +2,34 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: white;
+
 }
 
 body {
-  background-color: #e9ecef;
+  background-color: rgb(107, 107, 107);
+}
+
+.card-color{
+  background-color:rgb(107, 107, 107);
+}
+
+.jumbotron{
+  background-color: rgb(107, 107, 107);
+}
+
+.btn-aboutUs  {
+  margin-left: 46%;
+}
+
+.card{
+  margin : 2%;
+  background-color: gray;
+}
+
+.card-body-Keman{
+  margin-left: 35%;
+  padding : 15px 0;
+  color: white;
 }
