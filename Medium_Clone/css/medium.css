@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+.bg-yellow {
+  background-color: #ffc017;
+}
+
+.border-bottom-dark {
+  border-bottom: 1px solid rgb(41, 41, 41);
+}
+
+.btn-rounded {
+  border-radius: 20px;
+}
+
+.shadow {
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(153, 65, 38, 1);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(153, 65, 38, 1);
+  box-shadow: 10px 10px 5px 0px rgba(153, 65, 38, 1);
+}
