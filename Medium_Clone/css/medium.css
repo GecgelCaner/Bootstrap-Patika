@@ -25,3 +25,10 @@ body {
   -moz-box-shadow: 10px 10px 5px 0px rgba(153, 65, 38, 1);
   box-shadow: 10px 10px 5px 0px rgba(153, 65, 38, 1);
 }
+
+.aside-button> li {
+  margin-bottom: 15px;
+  /* background-color: rgba(242, 242, 242, 1); */
+}
+
+
