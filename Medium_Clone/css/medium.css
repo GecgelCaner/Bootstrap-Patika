@@ -28,7 +28,10 @@ body {
 
 .aside-button> li {
   margin-bottom: 15px;
-  /* background-color: rgba(242, 242, 242, 1); */
+   background-color: rgba(242, 242, 242, 1); 
 }
 
+.border-top-dark{
+  border: 1px solid rgb(230, 230, 230,1);
+}
 
